@@ -1,4 +1,3 @@
-```markdown
 # Shaswata Datta 🚀
 
 ## Introduction 📚
@@ -49,4 +48,3 @@ Feel free to reach out to me for any collaboration opportunities or inquiries. �
 - GitHub: [github.com/shaswata-datta](https://github.com/shaswata-datta)
 
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-```
