@@ -20,7 +20,7 @@ I am a professional developer with a strong background in Java. I am currently p
 ## GitHub Stats 📊
 Here are my GitHub stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaswata-datta&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechVortex2000&show_icons=true&theme=radical)
 
 ## Tools and Technologies 🛠️
 Here are some of the tools and technologies I have experience with:
