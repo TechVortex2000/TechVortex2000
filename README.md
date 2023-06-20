@@ -1,39 +1,52 @@
-## Name : Shaswata Datta ,NICE TO MEET YOU👋
+```markdown
+# Shaswata Datta 🚀
 
-## About Me
+## Introduction 📚
+I am a professional developer with a strong background in Java. I am currently pursuing my Bachelor's degree in Computer Science and Engineering from Amity University (Batch 2019-2023), where I am specializing in Java programming. I am well-versed in writing Java code and have developed various applications for Android using Java.
 
-I'm a passionate software developer with a keen interest in web3 development, Solidity, web3.js, and Android development in Java. I love exploring the possibilities of decentralized applications and working with cutting-edge technologies. 🚀
+## Skills 🛠️
+- Java: Proficient in writing Java code and utilizing Java's Collection framework.
+- Python: Experienced in using Python libraries such as NumPy, Pandas, and scikit-learn for data analysis and machine learning.
+- Android Development: Skilled in using Android SDK, Firebase, Volley library, and Glide library for Android app development.
+- Other Tools: Familiar with Cisco IOS, Linux Debian, and Fedora. Proficient in using Git and GitHub for version control and collaboration.
+- Skills Learning: Currently expanding my knowledge in Blockchain Technology, Solidity, and Rust.
 
-## Interests
+## Work Experience 💼
+- Intern at Motherson Sumi System Limited: Worked as a Network Engineer intern for 3 months, gaining practical experience in network management and troubleshooting.
+- Published Book Chapter: Contributed to a book chapter on "Analysis and Prediction of Covid-19 using Machine Learning Algorithms", showcasing my expertise in analytics and machine learning.
 
-- Web3 development 🌐
-- Solidity smart contract development 💡
-- Web3.js for building decentralized applications ⚡️
-- Android app development using Java 📱
+## Education Background 🎓
+- Amity University, B.Tech in Computer Science and Engineering (2019-2023)
 
-## Publications
+## GitHub Stats 📊
+Here are my GitHub stats:
 
-I have contributed to the field of data analysis and prediction of COVID-19 using machine learning. Some of my notable publications include:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaswata-datta&show_icons=true&theme=radical)
 
-- "Analysis and Prediction of COVID-19 Spread: A Machine Learning Approach" (Journal of Data Science, 2022) 📊
-- "Machine Learning Models for Forecasting COVID-19 Cases: A Comparative Study" (Conference on Artificial Intelligence, 2021) 🧠
+## Tools and Technologies 🛠️
+Here are some of the tools and technologies I have experience with:
 
-## Experience
+### Firebase
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-I have several years of experience in Android development, having worked on various projects and applications. My expertise includes:
+### Git
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- Building robust and user-friendly Android apps 📱
-- Implementing complex features and integrating APIs 🛠️
-- Optimizing app performance and ensuring high-quality code ⚙️
+### Android Studio
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-## Solidity Understanding
+### Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-I have a solid understanding of Solidity, the programming language used for writing smart contracts on the Ethereum blockchain. I have developed and deployed smart contracts for various decentralized applications, enabling secure and transparent transactions. 💻
+### Java
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-## Get in Touch
+Feel free to reach out to me for any collaboration opportunities or inquiries. 📩
 
-I'm always excited to collaborate on interesting projects and connect with fellow developers. Feel free to reach out to me via connect with me on [LinkedIn](https://www.linkedin.com/in/shaswata-datta-978627190/). Let's build amazing things together! 🤝
+## Contact Information 📞
+- Email: shaswata.d@example.com
+- LinkedIn: [linkedin.com/in/shaswata-datta](https://www.linkedin.com/in/shaswata-datta)
+- GitHub: [github.com/shaswata-datta](https://github.com/shaswata-datta)
 
-## Tags
-
-#Web3 #Solidity #Web3.js #AndroidDevelopment #Java #MachineLearning #DataAnalysis #COVID19
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+```
