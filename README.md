@@ -17,10 +17,7 @@ I am a professional developer with a strong background in Java. I am currently p
 ## Education Background 🎓
 - Amity University, B.Tech in Computer Science and Engineering (2019-2023)
 
-## GitHub Stats 📊
-Here are my GitHub stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechVortex2000&layout=donut-vertical)]
 
 ## Tools and Technologies 🛠️
 Here are some of the tools and technologies I have experience with:
