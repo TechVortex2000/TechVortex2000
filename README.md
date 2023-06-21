@@ -40,7 +40,7 @@ Here are some of the tools and technologies I have experience with:
 Feel free to reach out to me for any collaboration opportunities or inquiries. 📩
 
 ## Contact Information 📞
-- Email: shaswatadatta2000@outlook.com
+- Email:     shaswatadatta2000@outlook.com
 - LinkedIn: [https://www.linkedin.com/in/shaswata-datta-978627190/](https://www.linkedin.com/in/shaswata-datta-978627190/)
 
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
